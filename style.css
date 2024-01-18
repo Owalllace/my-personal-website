@@ -20,3 +20,9 @@ body {
     border-radius: 2%;
     box-shadow: 4px 4px, #000000f8;
 }
+
+.change {
+    border: 2px;
+    background-color: rgb(174, 210, 240);
+    padding: 5px;
+}
